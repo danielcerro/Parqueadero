@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/idPlaca"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/texto_placa"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/idMarca"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/texto_marca" />
+
+        <TextView
+            android:id="@+id/idModelo"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/texto_modelo" />
+
+        <TextView
+            android:id="@+id/idTipo"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="@string/texto_tipo" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="11dp"
+            android:background="@color/colorPrimary" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

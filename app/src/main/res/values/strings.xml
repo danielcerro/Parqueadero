@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parqueadero</string>
+    <string name="texto_usuario">Usuario</string>
+    <string name="hint_usuario">usuario:admin</string>
+    <string name="texto_contraseña">Contraseña</string>
+    <string name="hint_contraseña">contraseña:12345</string>
+    <string name="texto_iniciar">Iniciar sesion</string>
+    <string name="texto_placa">Placa</string>
+    <string name="hint_placa">Digite la placa</string>
+    <string name="texto_marca">Marca</string>
+    <string name="hint_marca">Digite la marca</string>
+    <string name="texto_modelo">Modelo</string>
+    <string name="texto_año">Seleccione el año del auto</string>
+    <string name="texto_tipo">Tipo de caja</string>
+    <string name="texto_automatico">Automatico</string>
+    <string name="texto_manual">Mecanico</string>
+    <string name="texto_mostrar_manuela">Mostrar autos mecanicos</string>
+    <string name="texto_mostrar_auto">Mostrar autos Automaticos</string>
+    <string name="texto_eliminarA">Eliminar autos aleatorio</string>
+    <string name="texto_lista">Lista de autos</string>
+    <string name="texto_mostrar">Mostrar todos los autos</string>
+</resources>

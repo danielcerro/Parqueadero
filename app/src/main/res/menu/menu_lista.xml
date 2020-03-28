@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuEAA"
+        android:title="@string/texto_eliminarA" />
+    <item
+        android:id="@+id/mnuMAM"
+        android:title="@string/texto_mostrar_manuela" />
+    <item
+        android:id="@+id/mnuMAA"
+        android:title="@string/texto_mostrar_auto" />
+    <item
+        android:id="@+id/mnuTA"
+        android:title="@string/texto_mostrar" />
+</menu>
